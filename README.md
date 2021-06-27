@@ -4,3 +4,5 @@
 - 🌱  I’m currently learning how contribute on GitHub and am trying to get proficient at R Programming
 - 👯  I'll love to collaborate on projects that have applications to healthcare
 - 📫  Get in touch with me via [email](utek@outlook.com) or [Twitter](https://twitter.com/utekleong)
+
+[![Spotify](https://cirxi.vercel.app/api/spotify)](https://open.spotify.com/user/1178034853)
