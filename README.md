@@ -5,4 +5,4 @@
 - 👯  I'll love to collaborate on projects that have applications to healthcare
 - 📫  Get in touch with me via [email](utek@outlook.com) or [Twitter](https://twitter.com/utekleong)
 
-[![Spotify](novatorem-cirxi.vercel.app)](https://open.spotify.com/user/1178034853)
+[![Spotify](https://cirxi.vercel.app/api/spotify)](https://open.spotify.com/user/1178034853)
