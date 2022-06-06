@@ -1,4 +1,4 @@
-### Hello there! I'm Utek, a second-year Psychology PhD student at the National University of Singapore
+### Hello there!
 
 - 📫  Get in touch with me via [email](utek@outlook.com) or [Twitter](https://twitter.com/utekleong)
 
